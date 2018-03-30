@@ -161,7 +161,7 @@ if [ "$CHECK" = true ]; then
                                      --checkfiles index.html --fragments "img src" --fragmentcounts 6
   determine_exit_code $?
   # --> GatorGrader CHECK: the repository contains at least three commits (update to current + 3)
-  python3 gatorgrader/gatorgrader.py --nowelcome --commits 3
+  python3 gatorgrader/gatorgrader.py --nowelcome --commits 11
   determine_exit_code $?
   echo ""
   printf "%s\n" "${blu}... Finished checking with GatorGrader${end}"
