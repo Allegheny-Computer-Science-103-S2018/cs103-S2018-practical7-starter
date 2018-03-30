@@ -20,20 +20,15 @@ PROBLEMS?
 
 -->
 
-# cs103-S2018-practical7-solution
+# cs103-S2018-practical7-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Practical 7 in Computer Science 103.
-
-<!--
-
- Since the Travis builds for this repository will initially fail (as evidenced by
- a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
- programmer is responsible for completing all of the steps needed to satisfy the
- requirements for the assignment, thus causing a &#x2714; to instead appear in
- the commit logs.
-
--->
+repository contains the starter for Practical 7 in Computer Science 103. Since
+the Travis builds for this repository will initially fail (as evidenced by a
+red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
+programmer is responsible for completing all of the steps needed to satisfy the
+requirements for the assignment, thus causing a &#x2714; to instead appear in
+the commit logs.
 
 ## Introduction
 
@@ -138,7 +133,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-./gatorgrader.sh --update git@github.com:Allegheny-Computer-Science-103-S2018/cs103-S2018-practical7-starter.git
+./gatorgrader.sh --update git@github.com:Allegheny-Computer-Science-103-S2018/cs103-S2018-practical8-starter.git
 ```
 
 You should only need to type this command once; typing the command additional
@@ -178,7 +173,7 @@ developed for the following software and versions:
 
 If you have found a problem with this assignment's provided source code, then
 you can go to the [Computer Science 103 Practical 7
-Starter](https://github.com/Allegheny-Computer-Science-103-S2018/cs103-S2018-practical7-starter)
+Starter](https://github.com/Allegheny-Computer-Science-103-S2018/cs103-S2018-practical8-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
 tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
